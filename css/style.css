@@ -124,6 +124,10 @@ body {
     background: url('../img/check.svg') 0 5px  no-repeat;
 }
 
+.bulleted-list-item:last-of-type {
+    margin: 0;
+}
+
 .text3 {
     margin-bottom: 63px;
 }
